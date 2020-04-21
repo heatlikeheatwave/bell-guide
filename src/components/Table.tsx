@@ -1,14 +1,13 @@
 import React from 'react';
 import TableHead from './TableHead';
 import fish from '../data/fish.json';
-// import bugs from '../data/bugs.json';
 
 const Table = () => {
   const copyOfCritterData = [...fish.data];
   
   return(
     <table>
-    <caption>Bell Guide</caption>
+    <caption>Animal Crossing: New Horizon Critter Guide</caption>
       <TableHead/>
       <tbody>
         {
