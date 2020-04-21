@@ -1,483 +1,1766 @@
 {
-1
-	Common Butterfly
-	Flying
-	160
-	4 a.m. - 7 p.m.
-  September-June (Northern) / March-December (Southern)
-2
-	Yellow Butterfly
-	Flying
-	160
-	4 a.m. - 7 p.m.
-	March-June, September-October (Northern) / March-April, September-December (Southern)
-3
-	Tiger Butterfly
-	Flying
-	240
-	4 a.m. - 7 p.m.
-	March-September (Northern) / September-March (Southern)
-
-4
-	Peacock Butterfly
-	Flying by hybrid flowers
-	2,500
-	4 a.m. - 7 p.m.
-	March-June (Northern) / September-December (Southern)
-5
-	Common Bluebottle
-	Flying
-	300
-	4 a.m. - 7 p.m.
-	April-August (Northern) / October-February (Southern)
-6
-	Paper Kite Butterfly
-	Flying
-	1,000
-	8 a.m. - 7 p.m.
-	Year-round (Northern and Southern)
-7
-	Great Purple Emperor
-	Flying
-	3,000
-	4 a.m. - 7 p.m.
-	May-August (Northern) / November-February (Southern)
-8
-	Monach Butterfly
-	Flying
-	140
-	4 a.m. - 5 p.m.
-	September-November (Northern) / March-May (Southern)
-9
-	Emperor Butterfly
-	Flying
-	4,000
-	5 p.m. - 8 a.m.
-	June-September, December-March (Northern) / December-March, June-September (Southern)
-10
-	Agrias Butterfly
-	Flying
-	3,000
-	8 a.m. - 5 p.m.
-	April-September (Northern) / November-March (Southern)
-11
-	Raja Brooke's Birdwing
-	Flying by purple flowers
-	2,500
-	8 a.m. - 5 p.m.
-	April-September, December-February (Northern) / November-March, June-August (Southern)
-12
-	Queen Alexandra's Birdwing
-	Flying
-	4,000
-	8 a.m. - 4 p.m.
-	May-September (Northern) / November-March (Southern)
-13
-	Moth
-	Flying by light
-	130
-	7 p.m. - 4 a.m.
-	Year-round (Northern and Southern)
-14
-	Atlas Moth
-	On trees
-	3,000
-	7 p.m. - 4 a.m.
-	April-September (Northern) / October-March (Southern)
-15
-	Madagascan Sunset Moth
-	Flying
-	2,500
-	8 a.m. - 4 p.m.
-	April-September (Northern) / October-March (Southern)
-16
-	Long Locust
-	On ground
-	200
-	8 a.m. - 7 p.m.
-	April-November (Northern) / November-May (Southern)
-17
-	Migratory Locust
-	On ground
-	600
-	8 a.m. - 7 p.m.
-	August-November (Northern) / February-May (Southern)
-18
-	Rice Grasshopper
-	On ground
-	160
-	8 a.m. - 7 p.m.
-	August-November (Northern) / February-May (Southern)
-19
-	Grasshopper
-	On ground
-	160
-	8 a.m. - 5 p.m.
-	July-September (Northern) / January-March (Southern)
-20
-	Cricket
-	Dig at cricket noise
-	130
-	5 p.m. - 8 a.m.
-	September-November (Northern) / March-May (Southern)
-21
-	Bell Cricket
-	On ground
-	430
-	5 p.m. - 8 a.m.
-	September-October (Northern) / March-April (Southern)
-22
-	Mantis
-	On flowers
-	430
-	8 a.m. - 5 p.m.
-	March-November (Northern) / September-May (Southern)
-23
-	Orchid Mantis
-	On white flowers
-	2,400
-	8 a.m. - 5 p.m.
-	March-November (Northern) / September-May (Southern)
-24
-	Honeybee
-	Flying
-	200
-	8 a.m. - 5 p.m.
-	March-July (Northern) / March-July (Southern)
-25
-	Wasp
-	Falls from shaking trees
-	2,500
-	All day
-	Year-round (Northern and Southern)
-26
-	Brown Cicada
-	On trees
-	250
-	8 a.m. - 5 p.m.
-	July-August (Northern) / January-February (Southern)
-27
-	Robust Cicada
-	On trees
-	300
-	8 a.m. - 5 p.m.
-	July-August (Northern) / January-February (Southern)
-28
-	Giant Cicada
-	On trees
-	600
-	8 a.m. - 5 p.m.
-	July-August (Northern) / January-February (Southern)
-29
-	Walker Cicada
-	On trees
-	400
-	8 a.m. - 5 p.m.
-	August-September (Northern) / February-March (Southern)
-30
-	Evening Cicada
-	On trees
-	660
-	4 a.m. - 8 a.m., 4 p.m. - 7 p.m.
-	July-August (Northern) / January-February (Southern)
-31
-	Cicada Shell
-	On trees
-	10
-	All day
-	July-August (Northern) / January-February (Southern)
-32
-	Red Dragonfly
-	Flying
-	180
-	8 a.m. - 7 p.m.
-	September-October (Northern) / March-April (Southern)
-33
-	Darner Dragonfly
-	Flying
-	230
-	8 a.m. - 5 p.m.
-	April-October (Northern) / October-April (Southern)
-34
-	Banded Dragonfly
-	Flying
-	4,500
-	8 a.m. - 5 p.m.
-	May-October (Northern) / November-April (Southern)
-35
-	Damselfly
-	Flying
-	500
-	All day
-	November-February (Northern) / May-August (Southern)
-36
-	Firefly
-	Flying
-	300
-	7 p.m. - 4 a.m.
-	June (Northern) / December (Southern)
-37
-	Mole Cricket
-	Underground
-	500
-	All day
-	November-May (Northern) / May-November (Southern)
-38
-	Pondskater
-	Ponds
-	130
-	8 a.m. - 7 p.m.
-	May-September (Northern) / November-March (Southern)
-39
-	Diving Beetle
-	Ponds and rivers
-	800
-	8 a.m. - 7 p.m.
-	May-September (Northern) / November-March (Southern)
-40
-	Giant Water Bug
-	Ponds and rivers
-	2,000
-	7 p.m. - 8 a.m.
-	April-September (Northern) / October-March (Southern)
-41
-	Stinkbug
-	On flowers
-	120
-	All day
-	March-November (Northern) / September-May (Southern)
-42
-	Man-faced Stink Bug
-	On flowers
-	1,000
-	7 p.m. - 8 a.m.
-	March-November (Northern) / September-May (Southern)
-43
-	Ladybug
-	On flowers
-	200
-	8 a.m. - 5 p.m.
-	March-June, October (Northern) / September-December, April (Southern)
-44
-	Tiger Beetle
-	On ground
-	1,500
-	All day
-	February-November (Northern) / August-May (Southern)
-45
-	Jewel Beetle
-	On tree stumps
-	2,400
-	All day
-	April-August (Northern) / October-February (Southern)
-46
-	Violin Beetle
-	On tree stumps
-	450
-	All day
-	May-June, September-November (Northern) / November-December, March-April (Southern)
-47
-	Citrus Long-horned Beetle
-	On tree stumps
-	350
-	All day
-	Year-round (Northern and Southern)
-48
-	Rosalia Batesi Beetle
-	On tree stumps
-	3,000
-	All day
-	May-September (Northern) / November-March (Southern)
-49
-	Blue Weevil Beetle
-	On palm trees
-	800
-	All day
-	July-August (Northern) / January-February (Southern)
-50
-	Dung Beetle
-	Pushing snowballs
-	3,000
-	
-	December-February (Northern) / June-August (Southern)
-51
-	Earth-boring Dung Beetle
-	On ground
-	300
-	All day
-	July-September (Northern) / January-March (Southern)
-52
-	Scarab Beetle
-	On trees
-	10,000
-	11 p.m. - 8 a.m.
-	July-August (Northern) / January-February (Southern)
-53
-	Drone Beetle
-	On trees
-	200
-	All day
-	June-August (Northern) / December-February (Southern)
-54
-	Goliath Beetle
-	On coconut trees
-	8,000
-	5 p.m. - 8 a.m.
-	June-September (Northern) / December-March (Southern)
-55
-	Saw Stag
-	On trees
-	2,000
-	All day
-	July-August (Northern) / January-February (Southern)
-56
-	Miyama Stag
-	On trees
-	1,000
-	All day
-	July-August (Northern) / January-February (Southern)
-57
-	Giant Stag
-	On trees
-	10,000
-	11 p.m. - 8 a.m.
-	July-August (Northern) / January-February (Southern)
-58
-	Rainbow Stag
-	On trees
-	6,000
-	7 p.m. - 8 a.m.
-	June-September (Northern) / December-March (Southern)
-59
-	Cyclommatus Stag
-	On trees
-	8,000
-	5 p.m. - 8 a.m.
-	July-August (Northern) / January-February (Southern)
-60
-	Golden Stag
-	On trees
-	12,000
-	5 p.m. - 8 a.m.
-	July-August (Northern) / January-February (Southern)
-61
-	Giraffe Stag
-	On trees
-	12,000
-	5 p.m. - 8 a.m.
-	July-August (Northern) / January-February (Southern)
-62
-	Horned Dynastid
-	On trees
-	1,350
-	5 p.m. - 8 a.m.
-	July-August (Northern) / January-February (Southern)
-63
-	Horned Atlas
-	On trees
-	8,000
-	5 p.m. - 8 a.m.
-	July-August (Northern) / January-February (Southern)
-64
-	Horned Elephant
-	On trees
-	8,000
-	5 p.m. - 8 a.m.
-	July-August (Northern) / January-February (Southern)
-65
-	Horned Herucles
-	On trees
-	12,000
-	5 p.m. - 8 a.m.
-	July-August (Northern) / January-February (Southern)
-66
-	Walking Stick
-	On trees
-	600
-	4 a.m. - 8 a.m., 5 p.m. - 7 p.m.
-	July-November (Northern) / January-May (Southern)
-67
-	Walking Leaf
-	Near trees, disguised as furniture leaf
-	600
-	All day
-	July-August (Northern) / January-March (Southern)
-68
-	Bagworm
-	Falls from shaking trees
-	600
-	All day
-	Year-round (Northern and Southern)
-69
-	Ant
-	On rotten food
-	80
-	All day
-	Year-round (Northern and Southern)
-70
-	Hermit Crab
-	Beach
-	1,000
-	7 p.m. - 8 a.m.
-	Year-round (Northern and Southern)
-71
-	Wharf Roach
-	On rocks at beach
-	200
-	All day
-	Year-round (Northern and Southern)
-72
-	Fly
-	On trash items
-	60
-	All day
-	Year-round (Northern and Southern)
-73
-	Mosquito
-	Flying
-	130
-	5 p.m. - 4 a.m.
-	June-September (Northern) / December-March (Southern)
-74
-	Flea
-	On villagers
-	70
-	All day
-	April-November (Northern) / October-May (Southern)
-75
-	Snail
-	On rocks (raining)
-	250
-	All day
-	Year-round (Northern and Southern)
-76
-	Pill Bug
-	Hit rocks
-	250
-	11 p.m. - 4 p.m.
-	September-June (Northern) / March-December (Southern)
-77
-	Centipede
-	Hit rocks
-	300
-	4 p.m. - 11 p.m.
-	September-June (Northern) / March-December (Southern)
-78
-	Spider
-	Falls from shaking trees
-	480
-	7 p.m. - 8 a.m.
-	Year-round (Northern and Southern)
-79
-	Tarantula
-	On ground
-	8,000
-	7 p.m. - 4 a.m.
-	November-April (Northern) / May-October (Southern)
-80
-	Scorpion
-	On ground
-	8,000
-	7 p.m. - 4 a.m.
-	May-October (Northern) / November-April (Southern)
+  "data":[
+     {
+        "id":1,
+        "name":"Common Butterfly",
+        "value":160,
+        "location":"Flying",
+        "spawningStartTime":"4:00",
+        "spawningEndTime": "19:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":2,
+        "name":"Yellow Butterfly",
+        "value":160,
+        "location":"Flying",
+        "spawningStartTime":"4:00",
+        "spawningEndTime": "19:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":3,
+        "name":"Tiger Butterfly",
+        "value":240,
+        "location":"Flying",
+        "spawningStartTime":"4:00",
+        "spawningEndTime": "19:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":4,
+        "name":"Peacock Butterfly",
+        "value":2500,
+        "location":"Flowers (Hybrid)",
+        "spawningStartTime":"4:00",
+        "spawningEndTime": "19:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":5,
+        "name":"Common Bluebottle",
+        "value":300,
+        "location":"Flying",
+        "spawningStartTime":"4:00",
+        "spawningEndTime": "19:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":6,
+        "name":"Paper Kite Butterfly",
+        "value":1000,
+        "location":"Flying",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "19:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":7,
+        "name":"Great Purple Emperor",
+        "value":3000,
+        "location":"Flying",
+        "spawningStartTime":"4:00",
+        "spawningEndTime": "19:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":8,
+        "name":"Monarch Butterfly",
+        "value":140,
+        "location":"Flying",
+        "spawningStartTime":"4:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":9,
+        "name":"Emperor Butterfly",
+        "value":4000,
+        "location":"Flying",
+        "spawningStartTime":"17:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":true
+        }
+     },
+     {
+        "id":10,
+        "name":"Agrias Butterfly",
+        "value":3000,
+        "location":"Flying",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":11,
+        "name":"Rajah Brooke's Birdwing",
+        "value":2500,
+        "location":"Flying",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":true
+        }
+     },
+     {
+        "id":12,
+        "name":"Queen Alexandra's Birdwing",
+        "value":4000,
+        "location":"Flying",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "16:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":13,
+        "name":"Moth",
+        "value":130,
+        "location":"Flying(Lights)",
+        "spawningStartTime":"19:00",
+        "spawningEndTime": "4:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":14,
+        "name":"Atlas Moth",
+        "value":3000,
+        "location":"On trees",
+        "spawningStartTime":"19:00",
+        "spawningEndTime": "4:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":15,
+        "name":"Madagascan Sunset Moth",
+        "value":2500,
+        "location":"Flying",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "16:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":16,
+        "name":"Long Locust",
+        "value":200,
+        "location":"On ground",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "19:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":17,
+        "name":"Migratory Locust",
+        "value":600,
+        "location":"On ground",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "19:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":18,
+        "name":"Rice Grasshopper",
+        "value":160,
+        "location":"On ground",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "19:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":19,
+        "name":"Grasshopper",
+        "value":160,
+        "location":"On ground",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":20,
+        "name":"Cricket",
+        "value":130,
+        "location":"On ground",
+        "spawningStartTime":"17:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":21,
+        "name":"Bell Cricket",
+        "value":430,
+        "location":"On ground",
+        "spawningStartTime":"17:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":22,
+        "name":"Mantis",
+        "value":430,
+        "location":"On flowers",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":23,
+        "name":"Orchid Mantis",
+        "value":2400,
+        "location":"On white flowers",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":24,
+        "name":"Honeybee",
+        "value":200,
+        "location":"Flying",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":25,
+        "name":"Wasp",
+        "value":2500,
+        "location":"Shaken tree",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":26,
+        "name":"Brown Cicada",
+        "value":250,
+        "location":"On trees",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":27,
+        "name":"Robust Cicada",
+        "value":300,
+        "location":"On trees",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":28,
+        "name":"Giant Cicada",
+        "value":500,
+        "location":"On trees",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":29,
+        "name":"Walker Cicada",
+        "value":400,
+        "location":"On trees",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":30,
+        "name":"Evening Cicada",
+        "value":550,
+        "location":"On trees",
+        "spawningStartTime":"4:00",
+        "spawningEndTime": "8:00 , 16:00",
+        "spawningEndTime": "19:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":31,
+        "name":"Cicada Shell",
+        "value":10,
+        "location":"On trees",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":32,
+        "name":"Red Dragonfly",
+        "value":180,
+        "location":"Flying",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "19:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":33,
+        "name":"Darner Dragonfly",
+        "value":230,
+        "location":"Flying",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":34,
+        "name":"Banded Dragonfly",
+        "value":4500,
+        "location":"Flying",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":35,
+        "name":"Damselfly",
+        "value":500,
+        "location":"Flying",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":36,
+        "name":"Firefly",
+        "value":300,
+        "location":"Flying",
+        "spawningStartTime":"19:00",
+        "spawningEndTime": "4:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":37,
+        "name":"Mole Cricket",
+        "value":500,
+        "location":"Underground",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":38,
+        "name":"Pondskater",
+        "value":130,
+        "location":"Water",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":39,
+        "name":"Diving Beetle",
+        "value":800,
+        "location":"Water",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "19:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":40,
+        "name":"Giant Water Bug",
+        "value":2000,
+        "location":"Water",
+        "spawningStartTime":"19:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":41,
+        "name":"Stinkbug",
+        "value":120,
+        "location":"On flowers",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":42,
+        "name":"Man-faced Stink Bug",
+        "value":1000,
+        "location":"On flowers",
+        "spawningStartTime":"19:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":43,
+        "name":"Ladybug",
+        "value":200,
+        "location":"On flowers",
+        "spawningStartTime":"8:00",
+        "spawningEndTime": "17:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":44,
+        "name":"Tiger Beetle",
+        "value":1500,
+        "location":"On ground",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":45,
+        "name":"Jewel Beetle",
+        "value":2400,
+        "location":"Tree stumps",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":46,
+        "name":"Violin Beetle",
+        "value":450,
+        "location":"Tree stumps",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":47,
+        "name":"Citrus Long-horned Beetle",
+        "value":350,
+        "location":"Tree stumps",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":48,
+        "name":"Rosalia Batesi Beetle",
+        "value":3000,
+        "location":"Tree stumps",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":49,
+        "name":"Blue Weevil Beetle",
+        "value":800,
+        "location":"Trees (Coconut)",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":50,
+        "name":"Dung Beetle",
+        "value":3000,
+        "location":"Snowballs",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":true
+        }
+     },
+     {
+        "id":51,
+        "name":"Earth-boring Dung Beetle",
+        "value":300,
+        "location":"On ground",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":52,
+        "name":"Scarab Beetle",
+        "value":10000,
+        "location":"Trees",
+        "spawningStartTime":"23:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":53,
+        "name":"Drone Beetle",
+        "value":200,
+        "location":"Trees",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":54,
+        "name":"Goliath Beetle",
+        "value":8000,
+        "location":"Trees (Coconut)",
+        "spawningStartTime":"17:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":55,
+        "name":"Saw Stag",
+        "value":2000,
+        "location":"Trees",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":56,
+        "name":"Miyama Stag",
+        "value":1000,
+        "location":"Trees",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":57,
+        "name":"Giant Stag",
+        "value":10000,
+        "location":"Trees",
+        "spawningStartTime":"23:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":58,
+        "name":"Rainbow Stag",
+        "value":6000,
+        "location":"Trees",
+        "spawningStartTime":"19:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":59,
+        "name":"Cyclommatus Stag",
+        "value":8000,
+        "location":"Trees (Coconut)",
+        "spawningStartTime":"17:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":60,
+        "name":"Golden Stag",
+        "value":12000,
+        "location":"Trees (Coconut)",
+        "spawningStartTime":"17:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":61,
+        "name":"Giraffe Stag",
+        "value":12000,
+        "location":"Trees (Coconut)",
+        "spawningStartTime":"17:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":62,
+        "name":"Horned Dynastid",
+        "value":1350,
+        "location":"Trees",
+        "spawningStartTime":"17:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":63,
+        "name":"Horned Atlas",
+        "value":8000,
+        "location":"Trees (Coconut)",
+        "spawningStartTime":"17:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":64,
+        "name":"Horned Elephant",
+        "value":8000,
+        "location":"Trees (Coconut)",
+        "spawningStartTime":"17:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":65,
+        "name":"Horned Hercules",
+        "value":12000,
+        "location":"Trees (Coconut)",
+        "spawningStartTime":"17:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":66,
+        "name":"Walking Stick",
+        "value":600,
+        "location":"On trees",
+        "spawningStartTime":"4:00",
+        "spawningEndTime": "8:00 , 17:00",
+        "spawningEndTime": "19:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":67,
+        "name":"Walking Leaf",
+        "value":600,
+        "location":"Near trees",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":68,
+        "name":"Bagworm",
+        "value":600,
+        "location":"Shaken trees",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":69,
+        "name":"Ant",
+        "value":80,
+        "location":"Rotten food",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":70,
+        "name":"Hermit Crab",
+        "value":1000,
+        "location":"Beach",
+        "spawningStartTime":"19:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":71,
+        "name":"Wharf Roach",
+        "value":200,
+        "location":"Beach rocks",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":72,
+        "name":"Fly",
+        "value":60,
+        "location":"Trash items",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":73,
+        "name":"Mosquito",
+        "value":130,
+        "location":"Flying",
+        "spawningStartTime":"17:00",
+        "spawningEndTime": "4:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":74,
+        "name":"Flea",
+        "value":70,
+        "location":"Villagers",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":75,
+        "name":"Snail",
+        "value":250,
+        "location":"Rocks(Rain)",
+        "spawningStartTime":"0:00",
+        "spawningEndTime":"23:59",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":76,
+        "name":"Pill bug",
+        "value":250,
+        "location":"Rocks(Hit)",
+        "spawningStartTime":"23:00",
+        "spawningEndTime": "16:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":77,
+        "name":"Centipede",
+        "value":300,
+        "location":"Rocks(Hit)",
+        "spawningStartTime":"16:00",
+        "spawningEndTime": "23:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":78,
+        "name":"Spider",
+        "value":480,
+        "location":"Shaken trees",
+        "spawningStartTime":"19:00",
+        "spawningEndTime": "8:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":79,
+        "name":"Tarantula",
+        "value":8000,
+        "location":"Ground",
+        "spawningStartTime":"19:00",
+        "spawningEndTime": "4:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":80,
+        "name":"Scorpion",
+        "value":8000,
+        "location":"Ground",
+        "spawningStartTime":"19:00",
+        "spawningEndTime": "4:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     }
+  ]
 }

@@ -1,83 +1,1764 @@
 {
-  Critter #	Fish	Location	Shadow Size	Value	Time	Month (Hemisphere)
-  1 	Bitterling 	River 	Smallest 	900 	All day 	November-March (Northern) / May-September (Southern)
-  2 	Pale Chub 	River 	Smallest 	160 	9 a.m. - 4 p.m. 	Year-round (Northern and Southern)
-  3 	Crucian Carp 	River 	Small 	160 	All day 	Year-round (Northern and Southern)
-  4 	Dace 	River 	Medium 	240 	4 p.m. - 9 a.m. 	Year-round (Northern and Southern)
-  5 	Carp 	Pond 	Large 	300 	All day 	Year-round (Northern and Southern)
-  6 	Koi 	Pond 	Large 	4,000 	4 p.m. - 9 a.m. 	Year-round (Northern and Southern)
-  7 	Goldfish 	Pond 	Smallest 	1,300 	All day 	Year-round (Northern and Southern)
-  8 	Pop-eyed Goldfish 	Pond 	Smallest 	1,300 	9 a.m. - 4 p.m. 	Year-round (Northern and Southern)
-  9 	Ranchu Goldfish 	Pond 	Small 	4,500 	9 a.m. - 4 p.m. 	Year-round (Northern and Southern)
-  10 	Killifish 	Pond 	Smallest 	300 	All day 	April-August (Northern) / October-February (Southern)
-  11 	Crawfish 	Pond 	Small 	200 	All day 	April-September (Northern) / October-March (Southern)
-  12 	Soft-shelled Turtle 	River 	Large 	3,750 	4 p.m. - 9 a.m. 	August-September (Northern) / February-March (Southern)
-  13 	Snapping Turtle 	River 	X Large 	5,000 	9 p.m. - 4 a.m. 	April-October (Northern) / October-April (Southern)
-  14 	Tadpole 	Pond 	Smallest 	100 	All day 	March-July (Northern) / September-January (Southern)
-  15 	Frog 	Pond 	Small 	120 	All day 	May-August (Northern) / November-Feburary (Southern)
-  16 	Freshwater Goby 	River 	Small 	400 	4 p.m. - 9 a.m. 	Year-round (Northern and Southern)
-  17 	Loach 	River 	Small 	400 	All day 	March-May (Northern) / September-November (Southern)
-  18 	Catfish 	Pond 	Large 	800 	4 p.m. - 9 a.m. 	May-October (Northern) / November-April (Southern)
-  19 	Giant Snakehead 	Pond 	X Large 	5,500 	9 a.m. - 4 p.m. 	June-August (Northern) / December-February (Southern)
-  20 	Bluegill 	River 	Small 	180 	9 a.m. - 4 p.m. 	Year-round (Northern and Southern)
-  21 	Yellow Perch 	River 	Medium 	300 	All day 	October-March (Northern) / April-September (Southern)
-  22 	Black Bass 	River 	Large 	400 	All day 	Year-round (Northern and Southern)
-  23 	Tilapia 	River 	Medium 	800 	All day 	June-October (Northern) / December-April (Southern)
-  24 	Pike 	River 	X Large 	1,800 	All day 	September-December (Northern) / March-June (Southern)
-  25 	Pond Smelt 	River 	Small 	500 	All day 	December-February (Northern) / June-August (Southern)
-  26 	Sweetfish 	River 	Medium 	900 	All day 	July-September (Northern) / January-March (Southern)
-  27 	Cherry Salmon 	River (Clifftop) 	Medium 	1,000 	4 p.m. - 9 a.m. 	March-June, September-November (Northern) / March-May, September-December (Southern)
-  28 	Char 	River (Clifftop) 	Medium 	3,800 	4 p.m. - 9 a.m. 	March-June, September-November (Northern) / March-May, September-December (Southern)
-  29 	Golden Trout 	River (Clifftop) 	Medium 	15,000 	4 p.m. - 9 a.m. 	March-June, September-November (Northern) / March-May, September-December (Southern)
-  30 	Stringfish 	River (Clifftop) 	Largest 	15,000 	4 p.m. - 9 a.m. 	December-March (Northern) / June-September (Southern)
-  31 	Salmon 	River (mouth) 	Large 	700 	All day 	September (Northern) / March (Southern)
-  32 	King Salmon 	River (mouth) 	Largest 	1,800 	All day 	September (Northern) / March (Southern)
-  33 	Mitten Crab 	River 	Small 	2,000 	4 p.m. - 9 a.m. 	September-November (Northern) / March-May (Southern)
-  34 	Guppy 	River 	Smallest 	1,300 	9 a.m. - 4 p.m. 	April-November (Northern) / October-May (Southern)
-  35 	Nibble Fish 	River 	Small 	1,500 	9 a.m. - 4 p.m. 	May-September (Northern) / November-March (Southern)
-  36 	Angelfish 	River 	Small 	3,000 	4 p.m. - 9 a.m. 	May-October (Northern) / November-April (Southern)
-  37 	Betta 	River 	Small 	2,500 	9 a.m. - 4 p.m. 	May-October (Northern) / November-April (Southern)
-  38 	Neon Tetra 	River 	Smallest 	500 	9 a.m. - 4 p.m. 	April-November (Northern) / October-May (Southern)
-  39 	Rainbowfish 	River 	Small 	800 	9 a.m. - 4 p.m. 	May-October (Northern) / November-April (Southern)
-  40 	Piranha 	River 	Small 	2,500 	9 a.m. - 4 p.m., 9 p.m. - 4 a.m. 	June-September (Northern) / December-March (Southern)
-  41 	Arowana 	River 	Large 	10,000 	4 p.m. - 9 a.m. 	June-September (Northern) / December-March (Southern)
-  42 	Dorado 	River 	X Large 	15,000 	4 a.m. - 9 p.m. 	June-September (Northern) / December-March (Southern)
-  43 	Gar 	Pond 	Largest 	6,000 	4 p.m. - 9 a.m. 	June-September (Northern) / December-March (Southern)
-  44 	Arapaima 	River 	Largest 	10,000 	4 p.m. - 9 a.m. 	June-September (Northern) / December-March (Southern)
-  45 	Saddled Bichir 	River 	Large 	4,000 	9 p.m. - 4 a.m. 	June-September (Northern) / December-March (Southern)
-  46 	Sturgeon 	River (mouth) 	Largest 	10,000 	All day 	September-March (Northern) / March-September (Southern)
-  47 	Sea Butterfly 	Sea 	Smallest 	1,000 	All day 	December-March (Northern) / June-September (Southern)
-  48 	Sea Horse 	Sea 	Smallest 	1,100 	All day 	April-November (Northern) / October-May (Southern)
-  49 	Clown Fish 	Sea 	Smallest 	650 	All day 	April-September (Northern) / October-March (Southern)
-  50 	Surgeonfish 	Sea 	Small 	1,000 	All day 	April-September (Northern) / October-March (Southern)
-  51 	Butterfly Fish 	Sea 	Small 	1,000 	All day 	April-September (Northern) / October-March (Southern)
-  52 	Napoleonfish 	Sea 	Largest 	10,000 	4 a.m. - 9 p.m. 	July-August (Northern) / January-February (Southern)
-  53 	Zebra Turkeyfish 	Sea 	Medium 	500 	All day 	April-November (Northern) / October-May (Southern)
-  54 	Blowfish 	Sea 	Medium 	5,000 	6 p.m. - 4 a.m. 	November-February (Northern) / May-August (Southern)
-  55 	Puffer Fish 	Sea 	Medium 	250 	All day 	July-September (Northern) / January-March (Southern)
-  56 	Anchovy 	Sea 	Small 	200 	4 a.m. - 9 p.m. 	Year-round (Northern and Southern)
-  57 	Horse Mackerel 	Sea 	Small 	150 	All day 	Year-round (Northern and Southern)
-  58 	Barred Knifejaw 	Sea 	Medium 	5,000 	All day 	March-November (Northern) / September-May (Southern)
-  59 	Sea Bass 	Sea 	X Large 	400 	All day 	Year-round (Northern and Southern)
-  60 	Red Snapper 	Sea 	Large 	3,000 	All day 	Year-round (Northern and Southern)
-  61 	Dab 	Sea 	Medium 	300 	All day 	October-April (Northern) / April-October (Southern)
-  62 	Olive Flounder 	Sea 	Large 	800 	All day 	Year-round (Northern and Southern)
-  63 	Squid 	Sea 	Medium 	500 	All day 	December-August (Northern) / June-February (Southern)
-  64 	Moray Eel 	Sea 	Narrow 	2,000 	All day 	August-October (Northern) / February-April (Southern)
-  65 	Ribbon Eel 	Sea 	Narrow 	600 	All day 	June-October (Northern) / December-April (Southern)
-  66 	Tuna 	Pier 	Largest 	7,000 	All day 	November-April (Northern) / May-October (Southern)
-  67 	Blue Marlin 	Pier 	Largest 	10,000 	All day 	July-September, November-April (Northern) / January-March, May-November (Southern)
-  68 	Giant Trevally 	Pier 	Large 	4,500 	All day 	May-October (Northern) / November-April (Southern)
-  69 	Mahi-mahi 	Sea 	Large 	6,000 	All day 	May-October (Northern) / November-April (Southern)
-  70 	Ocean Sunfish 	Sea 	Largest (Fin) 	4,000 	4 a.m. - 9 p.m. 	July-September (Northern) / January-March (Southern)
-  71 	Ray 	Sea 	X Large 	3,000 	4 a.m. - 9 p.m. 	August-November (Northern) / February-May (Southern)
-  72 	Saw Shark 	Sea 	Largest (Fin) 	12,000 	4 p.m. - 9 a.m. 	June-September (Northern) / December-March (Southern)
-  73 	Hammerhead Shark 	Sea 	Largest (Fin) 	8,000 	4 p.m. - 9 a.m. 	June-September (Northern) / December-March (Southern)
-  74 	Great White Shark 	Sea 	Largest (Fin) 	15,000 	4 p.m. - 9 a.m. 	June-September (Northern) / December-March (Southern)
-  75 	Whale Shark 	Sea 	Largest (Fin) 	13,000 	All day 	June-September (Northern) / December-March (Southern)
-  76 	Suckerfish 	Sea 	Large (Fin) 	1,500 	All day 	June-September (Northern) / December-March (Southern)
-  77 	Football Fish 	Sea 	Large 	2,500 	4 p.m. - 9 a.m. 	November-March (Northern) / May-September (Southern)
-  78 	Oarfish 	Sea 	Largest 	9,000 	All day 	December-May (Northern) / June-November (Southern)
-  79 	Barreleye 	Sea 	Small 	15,000 	9 p.m. - 4 a.m. 	Year-round (Northern and Southern)
-  80 	Coelacanth 	Sea (rainy days) 	Largest 	15,000 	All day 	Year-round (Northern and Southern)
+  "data":[
+     {
+        "id":1,
+        "name":"Bitterling",
+        "value":900,
+        "location":"River",
+        "shadowSize":"Tiny",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":2,
+        "name":"Pale Chub",
+        "value":160,
+        "location":"River",
+        "shadowSize":"Tiny",
+        "spawningHours":"9:00 - 16:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":3,
+        "name":"Crucian Carp",
+        "value":160,
+        "location":"River",
+        "shadowSize":"Small",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":4,
+        "name":"Dace",
+        "value":240,
+        "location":"River",
+        "shadowSize":"Medium",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":5,
+        "name":"Carp",
+        "value":300,
+        "location":"Pond",
+        "shadowSize":"Large",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":6,
+        "name":"Koi",
+        "value":4000,
+        "location":"Pond",
+        "shadowSize":"Large",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":7,
+        "name":"Goldfish",
+        "value":1300,
+        "location":"Pond",
+        "shadowSize":"Tiny",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":8,
+        "name":"Pop-eyed Goldfish",
+        "value":1300,
+        "location":"Pond",
+        "shadowSize":"Tiny",
+        "spawningHours":"9:00 - 16:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":9,
+        "name":"Ranchu Goldfish",
+        "value":4500,
+        "location":"Pond",
+        "shadowSize":"Small",
+        "spawningHours":"9:00 - 16:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":10,
+        "name":"Killifish",
+        "value":300,
+        "location":"Pond",
+        "shadowSize":"Tiny",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":11,
+        "name":"Crawfish",
+        "value":200,
+        "location":"Pond",
+        "shadowSize":"Small",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":12,
+        "name":"Soft-shelled Turtle",
+        "value":3750,
+        "location":"River",
+        "shadowSize":"Large",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":13,
+        "name":"Snapping Turtle",
+        "value":5000,
+        "location":"River",
+        "shadowSize":"Large",
+        "spawningHours":"21:00 - 4:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":14,
+        "name":"Tadpole",
+        "value":100,
+        "location":"Pond",
+        "shadowSize":"Tiny",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":15,
+        "name":"Frog",
+        "value":120,
+        "location":"Pond",
+        "shadowSize":"Small",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":16,
+        "name":"Freshwater Goby",
+        "value":400,
+        "location":"River",
+        "shadowSize":"Small",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":17,
+        "name":"Loach",
+        "value":400,
+        "location":"River",
+        "shadowSize":"Small",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":18,
+        "name":"Catfish",
+        "value":800,
+        "location":"Pond",
+        "shadowSize":"Large",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":19,
+        "name":"Giant Snakehead",
+        "value":5500,
+        "location":"Pond",
+        "shadowSize":"Very Large",
+        "spawningHours":"9:00 - 16:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":20,
+        "name":"Bluegill",
+        "value":180,
+        "location":"River",
+        "shadowSize":"Small",
+        "spawningHours":"9:00 - 16:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":21,
+        "name":"Yellow Perch",
+        "value":300,
+        "location":"River",
+        "shadowSize":"Medium",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":22,
+        "name":"Black Bass",
+        "value":400,
+        "location":"River",
+        "shadowSize":"Large",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":23,
+        "name":"Tilapia",
+        "value":800,
+        "location":"River",
+        "shadowSize":"Medium",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":24,
+        "name":"Pike",
+        "value":1800,
+        "location":"River",
+        "shadowSize":"Very Large",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":25,
+        "name":"Pond Smelt",
+        "value":500,
+        "location":"River",
+        "shadowSize":"Small",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":true
+        }
+     },
+     {
+        "id":26,
+        "name":"Sweetfish",
+        "value":900,
+        "location":"River",
+        "shadowSize":"Medium",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":27,
+        "name":"Cherry Salmon",
+        "value":1000,
+        "location":"River (Clifftop)",
+        "shadowSize":"Medium",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":28,
+        "name":"Char",
+        "value":3800,
+        "location":"River (Clifftop)",
+        "shadowSize":"Medium",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":29,
+        "name":"Golden Trout",
+        "value":15000,
+        "location":"River (Clifftop)",
+        "shadowSize":"Medium",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":30,
+        "name":"Stringfish",
+        "value":15000,
+        "location":"River (Clifftop)",
+        "shadowSize":"Huge",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":true
+        }
+     },
+     {
+        "id":31,
+        "name":"Salmon",
+        "value":700,
+        "location":"River (Mouth)",
+        "shadowSize":"Large",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":32,
+        "name":"King Salmon",
+        "value":1800,
+        "location":"River (Mouth)",
+        "shadowSize":"Huge",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":33,
+        "name":"Mitten Crab",
+        "value":2000,
+        "location":"River",
+        "shadowSize":"Small",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":34,
+        "name":"Guppy",
+        "value":1300,
+        "location":"River",
+        "shadowSize":"Tiny",
+        "spawningHours":"9:00 - 16:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":35,
+        "name":"Nibble Fish",
+        "value":1500,
+        "location":"River",
+        "shadowSize":"Small",
+        "spawningHours":"9:00 - 16:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":36,
+        "name":"Angelfish",
+        "value":3000,
+        "location":"River",
+        "shadowSize":"Small",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":37,
+        "name":"Betta",
+        "value":2500,
+        "location":"River",
+        "shadowSize":"Small",
+        "spawningHours":"9:00 - 16:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":38,
+        "name":"Neon Tetra",
+        "value":500,
+        "location":"River",
+        "shadowSize":"Tiny",
+        "spawningHours":"9:00 - 16:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":39,
+        "name":"Rainbowfish",
+        "value":800,
+        "location":"River",
+        "shadowSize":"Tiny",
+        "spawningHours":"9:00 - 16:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":40,
+        "name":"Piranha",
+        "value":2500,
+        "location":"River",
+        "shadowSize":"Small",
+        "spawningHours":"9:00 - 16:00 , 21:00 - 4:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":41,
+        "name":"Arowana",
+        "value":10000,
+        "location":"River",
+        "shadowSize":"Large",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":42,
+        "name":"Dorado",
+        "value":15000,
+        "location":"River",
+        "shadowSize":"Very Large",
+        "spawningHours":"4:00 - 21:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":43,
+        "name":"Gar",
+        "value":6000,
+        "location":"Pond",
+        "shadowSize":"Huge",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":44,
+        "name":"Arapaima",
+        "value":10000,
+        "location":"River",
+        "shadowSize":"Huge",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":45,
+        "name":"Saddled Bichir",
+        "value":4000,
+        "location":"River",
+        "shadowSize":"Large",
+        "spawningHours":"21:00 - 4:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":46,
+        "name":"Sturgeon",
+        "value":10000,
+        "location":"River (Mouth)",
+        "shadowSize":"Huge",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":47,
+        "name":"Sea Butterfly",
+        "value":1000,
+        "location":"Sea",
+        "shadowSize":"Tiny",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":true
+        }
+     },
+     {
+        "id":48,
+        "name":"Sea Horse",
+        "value":1100,
+        "location":"Sea",
+        "shadowSize":"Tiny",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":49,
+        "name":"Clown Fish",
+        "value":650,
+        "location":"Sea",
+        "shadowSize":"Tiny",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":50,
+        "name":"Surgeonfish",
+        "value":1000,
+        "location":"Sea",
+        "shadowSize":"Small",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":51,
+        "name":"Butterfly Fish",
+        "value":1000,
+        "location":"Sea",
+        "shadowSize":"Small",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":52,
+        "name":"Napoleonfish",
+        "value":10000,
+        "location":"Sea",
+        "shadowSize":"Huge",
+        "spawningHours":"4:00 - 21:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":53,
+        "name":"Zebra Turkeyfish",
+        "value":500,
+        "location":"Sea",
+        "shadowSize":"Medium",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":54,
+        "name":"Blowfish",
+        "value":5000,
+        "location":"Sea",
+        "shadowSize":"Medium",
+        "spawningHours":"21:00 - 4:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":55,
+        "name":"Puffer Fish",
+        "value":250,
+        "location":"Sea",
+        "shadowSize":"Medium",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":56,
+        "name":"Anchovy",
+        "value":200,
+        "location":"Sea",
+        "shadowSize":"Small",
+        "spawningHours":"4:00 - 21:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":57,
+        "name":"Horse Mackerel",
+        "value":150,
+        "location":"Sea",
+        "shadowSize":"Small",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":58,
+        "name":"Barred Knifejaw",
+        "value":5000,
+        "location":"Sea",
+        "shadowSize":"Medium",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":59,
+        "name":"Sea Bass",
+        "value":400,
+        "location":"Sea",
+        "shadowSize":"Very Large",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":60,
+        "name":"Red Snapper",
+        "value":3000,
+        "location":"Sea",
+        "shadowSize":"Large",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":61,
+        "name":"Dab",
+        "value":300,
+        "location":"Sea",
+        "shadowSize":"Medium",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":62,
+        "name":"Olive Flounder",
+        "value":800,
+        "location":"Sea",
+        "shadowSize":"Very Large",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":63,
+        "name":"Squid",
+        "value":500,
+        "location":"Sea",
+        "shadowSize":"Medium",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":true
+        }
+     },
+     {
+        "id":64,
+        "name":"Moray Eel",
+        "value":2000,
+        "location":"Sea",
+        "shadowSize":"Narrow",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":65,
+        "name":"Ribbon Eel",
+        "value":600,
+        "location":"Sea",
+        "shadowSize":"Narrow",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":66,
+        "name":"Tuna",
+        "value":7000,
+        "location":"Pier",
+        "shadowSize":"Huge",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":67,
+        "name":"Blue Marlin",
+        "value":10000,
+        "location":"Pier",
+        "shadowSize":"Huge",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":68,
+        "name":"Giant Trevally",
+        "value":4500,
+        "location":"Pier",
+        "shadowSize":"Large",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":69,
+        "name":"Mahi-mahi",
+        "value":6000,
+        "location":"Pier",
+        "shadowSize":"Large",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":70,
+        "name":"Ocean Sunfish",
+        "value":4000,
+        "location":"Sea",
+        "shadowSize":"Finned",
+        "spawningHours":"4:00 - 21:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":71,
+        "name":"Ray",
+        "value":3000,
+        "location":"Sea",
+        "shadowSize":"Very Large",
+        "spawningHours":"4:00 - 21:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":false
+        }
+     },
+     {
+        "id":72,
+        "name":"Saw Shark",
+        "value":12000,
+        "location":"Sea",
+        "shadowSize":"Finned",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":73,
+        "name":"Hammerhead Shark",
+        "value":8000,
+        "location":"Sea",
+        "shadowSize":"Finned",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":74,
+        "name":"Great White Shark",
+        "value":15000,
+        "location":"Sea",
+        "shadowSize":"Finned",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":75,
+        "name":"Whale Shark",
+        "value":13000,
+        "location":"Sea",
+        "shadowSize":"Finned",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":76,
+        "name":"Suckerfish",
+        "value":1500,
+        "location":"Sea",
+        "shadowSize":"Finned",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":false,
+           "february":false,
+           "march":false,
+           "april":false,
+           "may":false,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":false,
+           "november":false,
+           "december":false
+        }
+     },
+     {
+        "id":77,
+        "name":"Football Fish",
+        "value":2500,
+        "location":"Sea",
+        "shadowSize":"Large",
+        "spawningHours":"16:00 - 9:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":false,
+           "may":false,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":78,
+        "name":"Oarfish",
+        "value":9000,
+        "location":"Sea",
+        "shadowSize":"Huge",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":false,
+           "july":false,
+           "august":false,
+           "september":false,
+           "october":false,
+           "november":false,
+           "december":true
+        }
+     },
+     {
+        "id":79,
+        "name":"Barreleye",
+        "value":15000,
+        "location":"Sea",
+        "shadowSize":"Small",
+        "spawningHours":"21:00 - 4:00",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     },
+     {
+        "id":80,
+        "name":"Coelacanth",
+        "value":15000,
+        "location":"Sea (Rain)",
+        "shadowSize":"Huge",
+        "spawningHours":"All day",
+        "northernSpawningMonths":{
+           "january":true,
+           "february":true,
+           "march":true,
+           "april":true,
+           "may":true,
+           "june":true,
+           "july":true,
+           "august":true,
+           "september":true,
+           "october":true,
+           "november":true,
+           "december":true
+        }
+     }
+  ]
 }
